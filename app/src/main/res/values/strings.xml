@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerDeleteUndo</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_cart">My Cart</string>
+    <string name="delete">DELETE</string>
+    <string name="cart_item">Cart Item</string>
+    <string name="description">Item Description</string>
+    <string name="price">Price</string>
+    <string name="undo">UNDO</string>
+    <string name="no_load_menu">Could not load the menu, Try again</string>
+</resources>
